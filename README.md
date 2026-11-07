@@ -18,6 +18,7 @@
 | EP-8 | 2026-11-01 | [agent-skills](https://github.com/addyosmani/agent-skills) | 112,425 | [Reel দেখো](https://facebook.com/reel/1126117253493341/) | [Shorts দেখো](https://www.youtube.com/shorts/jawCXC3Wi8o) |
 | EP-9 | 2026-11-02 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 228,352 | [Reel দেখো](https://facebook.com/reel/2138880526989411/) | [Shorts দেখো](https://www.youtube.com/shorts/MW_ncuidk4Q) |
 | EP-13 | 2026-11-06 | [claude-mem](https://github.com/thedotmack/claude-mem) | 113,792 | [Reel দেখো](https://facebook.com/reel/1146474114539135/) | আসছে |
+| EP-14 | 2026-11-07 | [zed](https://github.com/zed-industries/zed) | 94,044 | [Reel দেখো](https://facebook.com/reel/1144481004610859/) | [Short দেখো](https://youtube.com/shorts/qlNiRDThNrI) |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 
