@@ -19,6 +19,7 @@
 | EP-9 | 2026-11-02 | [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 228,352 | [Reel দেখো](https://facebook.com/reel/2138880526989411/) | [Shorts দেখো](https://www.youtube.com/shorts/MW_ncuidk4Q) |
 | EP-13 | 2026-11-06 | [claude-mem](https://github.com/thedotmack/claude-mem) | 113,792 | [Reel দেখো](https://facebook.com/reel/1146474114539135/) | আসছে |
 | EP-14 | 2026-11-07 | [zed](https://github.com/zed-industries/zed) | 94,044 | [Reel দেখো](https://facebook.com/reel/1144481004610859/) | [Short দেখো](https://youtube.com/shorts/qlNiRDThNrI) |
+| EP-16 | 2026-11-09 | [sherlock](https://github.com/sherlock-project/sherlock) | 105,880 | [Reel দেখো](https://facebook.com/reel/2490205361383084/) | https://www.youtube.com/shorts/IA9Y0PEILMY |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 
