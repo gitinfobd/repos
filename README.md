@@ -22,6 +22,7 @@
 | EP-16 | 2026-11-09 | [sherlock](https://github.com/sherlock-project/sherlock) | 105,880 | [Reel দেখো](https://facebook.com/reel/2490205361383084/) | https://www.youtube.com/shorts/IA9Y0PEILMY |
 | EP-17 | 2026-11-09 | [craft-anything](https://github.com/storytold/craft-anything) | 24,112 | [Reel দেখো](https://facebook.com/reel/1494978222695345/) | [Short দেখো](https://youtube.com/shorts/r2c05aokzto) |
 | EP-18 | 2026-11-11 | [unslop](https://github.com/heydamir/unslop) | 14,264 | [Reel দেখো](https://facebook.com/reel/1002867062177972/) | [Short দেখো](https://youtube.com/shorts/wWjLyuw028o) |
+| EP-19 | 2026-11-12 | [Mika](https://github.com/wangzan101/Mika) | 8,375 | [Reel দেখো](https://facebook.com/reel/1146025351133504/) | [Short দেখো](https://www.youtube.com/shorts/LMoHVdAq82I) |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 
