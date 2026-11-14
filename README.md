@@ -23,6 +23,7 @@
 | EP-17 | 2026-11-09 | [craft-anything](https://github.com/storytold/craft-anything) | 24,112 | [Reel দেখো](https://facebook.com/reel/1494978222695345/) | [Short দেখো](https://youtube.com/shorts/r2c05aokzto) |
 | EP-18 | 2026-11-11 | [unslop](https://github.com/heydamir/unslop) | 14,264 | [Reel দেখো](https://facebook.com/reel/1002867062177972/) | [Short দেখো](https://youtube.com/shorts/wWjLyuw028o) |
 | EP-19 | 2026-11-12 | [Mika](https://github.com/wangzan101/Mika) | 8,375 | [Reel দেখো](https://facebook.com/reel/1146025351133504/) | [Short দেখো](https://www.youtube.com/shorts/LMoHVdAq82I) |
+| EP-20 | 2026-11-14 | [WordCraft](https://github.com/storytold/wordcraft) | 17,977 | [Reel দেখো](https://facebook.com/reel/2011436533148351/) | [Short দেখো](https://www.youtube.com/shorts/GuVgAahsSvA) |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 
