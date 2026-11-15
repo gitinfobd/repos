@@ -27,6 +27,7 @@
 | EP-21 | 2026-11-14 | [Modern Web Guidance](https://github.com/googlechrome/modern-web-guidance) | 12,696 | [Reel দেখো](https://facebook.com/reel/2325941954836348/) | [Short দেখো](https://youtube.com/shorts/E8NMXpOFKTE) |
 | EP-22 | 2026-11-15 | [Open Code Review](https://github.com/alibaba/open-code-review) | 51,447 | [Reel দেখো](https://facebook.com/reel/1608244420502085) | [Short দেখো](https://youtube.com/shorts/qBvcX2zhqC8) |
 
+| EP-23 | 2026-11-15 | [Codex Security](https://github.com/openai/codex-security) | 13,544 | [Reel দেখো](https://facebook.com/reel/2692174777908918) | [Short দেখো](https://youtube.com/shorts/4jMDYvoQGfo) |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 
