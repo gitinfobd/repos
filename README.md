@@ -25,6 +25,7 @@
 | EP-19 | 2026-11-12 | [Mika](https://github.com/wangzan101/Mika) | 8,375 | [Reel দেখো](https://facebook.com/reel/1146025351133504/) | [Short দেখো](https://www.youtube.com/shorts/LMoHVdAq82I) |
 | EP-20 | 2026-11-14 | [WordCraft](https://github.com/storytold/wordcraft) | 17,977 | [Reel দেখো](https://facebook.com/reel/2011436533148351/) | [Short দেখো](https://www.youtube.com/shorts/GuVgAahsSvA) |
 | EP-21 | 2026-11-14 | [Modern Web Guidance](https://github.com/googlechrome/modern-web-guidance) | 12,696 | [Reel দেখো](https://facebook.com/reel/2325941954836348/) | [Short দেখো](https://youtube.com/shorts/E8NMXpOFKTE) |
+| EP-22 | 2026-11-15 | [Open Code Review](https://github.com/alibaba/open-code-review) | 51,447 | [Reel দেখো](https://facebook.com/reel/1608244420502085) | [Short দেখো](https://youtube.com/shorts/qBvcX2zhqC8) |
 
 
 ## 📌 আমাদের পেজ ও চ্যানেল
