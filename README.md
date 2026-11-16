@@ -28,6 +28,7 @@
 | EP-22 | 2026-11-15 | [Open Code Review](https://github.com/alibaba/open-code-review) | 51,447 | [Reel দেখো](https://facebook.com/reel/1608244420502085) | [Short দেখো](https://youtube.com/shorts/qBvcX2zhqC8) |
 | EP-23 | 2026-11-15 | [Codex Security](https://github.com/openai/codex-security) | 13,544 | [Reel দেখো](https://facebook.com/reel/2692174777908918) | [Short দেখো](https://youtube.com/shorts/4jMDYvoQGfo) |
 | EP-24 | 2026-11-16 | [Anatomy](https://github.com/wheresryan22/anatomy) | 27,500 | [Reel দেখো](https://facebook.com/reel/1167740392347530/) | [Short দেখো](https://youtube.com/shorts/Uz7JWmKIF_4) |
+| EP-25 | 2026-11-16 | [dsh-superagent](https://github.com/deepseek-ai/dsh-superagent-prototype) | 23,452 | [Reel দেখো](https://facebook.com/reel/1425715826210478/) | [Short দেখো](https://youtube.com/shorts/G9jpdTSU3a0) |
 
 
 ## 📌 আমাদের পেজ ও চ্যানেল
