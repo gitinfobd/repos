@@ -30,6 +30,7 @@
 | EP-24 | 2026-11-16 | [Anatomy](https://github.com/wheresryan22/anatomy) | 27,500 | [Reel দেখো](https://facebook.com/reel/1167740392347530/) | [Short দেখো](https://youtube.com/shorts/Uz7JWmKIF_4) |
 | EP-25 | 2026-11-16 | [dsh-superagent](https://github.com/deepseek-ai/dsh-superagent-prototype) | 23,452 | [Reel দেখো](https://facebook.com/reel/1425715826210478/) | [Short দেখো](https://youtube.com/shorts/G9jpdTSU3a0) |
 
+| EP-26 | 2026-11-17 | [cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 58,696 | [Reel দেখো](https://facebook.com/reel/1127447090132815/) | [Short দেখো](https://youtube.com/shorts/09x8nJpL5B4) |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 
