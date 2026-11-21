@@ -31,6 +31,7 @@
 | EP-25 | 2026-11-16 | [dsh-superagent](https://github.com/deepseek-ai/dsh-superagent-prototype) | 23,452 | [Reel দেখো](https://facebook.com/reel/1425715826210478/) | [Short দেখো](https://youtube.com/shorts/G9jpdTSU3a0) |
 
 | EP-26 | 2026-11-17 | [cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 58,696 | [Reel দেখো](https://facebook.com/reel/1127447090132815/) | [Short দেখো](https://youtube.com/shorts/09x8nJpL5B4) |
+| EP-27 | 2026-11-17 | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 72,291 | [Reel দেখো](https://facebook.com/reel/1792078522919679/) | [Short দেখো](https://www.youtube.com/shorts/yAxouHlijNo) |
 
 ## 📌 আমাদের পেজ ও চ্যানেল
 
